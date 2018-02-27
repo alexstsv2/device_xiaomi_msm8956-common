@@ -307,6 +307,11 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.wifi@1.0-service
 
+# Power
+PRODUCT_PACKAGES += \
+    android.hardware.power@1.0-impl \
+    power.msm8952
+
 # Wifi
 PRODUCT_PACKAGES += \
     libwpa_client \
