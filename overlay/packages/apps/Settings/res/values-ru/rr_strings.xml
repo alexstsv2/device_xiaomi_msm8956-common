@@ -1746,4 +1746,6 @@
     <string name="status_bar_battery_style_text">Текст</string>
     <string name="status_bar_battery_style_hidden">Не показывать</string>
 
+    <string name="notification_guts_kill_app_button_title">Кнопка «Убить приложение»</string>
+    <string name="notification_guts_kill_app_button_summary">Показывать кнопку «Убить приложение» в меню уведомления после длительного нажатия на уведомлении</string>
 </resources>
