@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2017 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Application name -->
+    <string name="lineageos_app_name" translatable="false">Trebuchet</string>
+
+    <!-- Folder titles -->
+    <string name="google_title" translatable="false">Google</string>
+    <string name="play_folder_title">Играть</string>
+
+    <!-- Expand statusbar -->
+    <string name="statusbar_expand">Проведите пальцем вниз, чтобы показывать уведомления.</string>
+
+    <!-- Predictive apps -->
+    <string name="predictive_apps_title">Быстрый доступ к приложениям</string>
+    <string name="predictive_apps_summary_on">Ваши любимые приложения появятся\ в верхней части списка</string>
+    <string name="predictive_apps_summary_off">Ваши любимые приложения не будут\ отображаться в верхней части списка</string>
+
+    <!-- Grid size -->
+    <string name="grid_size_text">Размер сетки</string>
+    <string name="grid_size_rows">Строк</string>
+    <string name="grid_size_columns">Столбцов</string>
+    <string name="grid_size_custom_positive">Установить</string>
+    <string name="grid_size_custom_message">Настройте количество строк и столбцо</string>
+
+    <!-- Hide labels -->
+    <string name="desktop_show_labels">Показывать значки на рабочем столе</string>
+    <string name="drawer_show_labels">Показывать значки в списке</string>
+
+    <!-- Custom icons -->
+    <string name="app_edit_drop_target_label">Редактировать</string>
+    <string name="icon_pack_title">Набор значков</string>
+    <string name="icon_pack_picker">Выбрать значок</string>
+    <string name="icon_pack_picker_search">Искать значок</string>
+    <string name="icon_pack_suggestions">Предложения</string>
+    <string name="icon_pack_all_icons">Все значки</string>
+    <string name="icon_pack_reset">Сбросить</string>
+    <string name="icon_pack_system">Системные (по умолчанию)</string>
+
+    <!-- Icon shapes -->
+    <string name="icon_shape_square_name">Квадрат</string>
+    <string name="icon_shape_circle_name">Круг</string>
+    <string name="icon_shape_squircle_name">Закруглённые углы</string>
+    <string name="icon_shape_teardrop_name">Слеза</string>
+
+    <!-- Preferences -->
+    <string name="settings_category_home">Настройки домашнего экрана</string>
+    <string name="settings_category_drawer">Настройки списка</string>
+    <string name="settings_category_icons">Настройки значков</string>
+    <string name="settings_more">Ещё</string>
+    <string name="settings_rotation_title">Вращение</string>
+    <string name="settings_allow_rotation_desc">Разрешить использование домашнего экрана в альбомном режиме, когда устройство повернуто</string>
+    <string name="settings_icon_shape">Формы иконок</string>
+    <string name="settings_icon_badging_desc_on">Над значком будет отображаться пузырь,\ когда есть уведомление</string>
+    <string name="settings_icon_badging_desc_off">Не будет изменения,\ когда есть уведомления</string>
+    <string name="settings_feed">Включить интеграцию каналов</string>
+</resources>
