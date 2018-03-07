@@ -550,6 +550,11 @@ service time_daemon /system/bin/time_daemon
    group root
    writepid /dev/cpuset/system-background/tasks
 
+service qcom-post-boot /system/bin/sh /vendor/etc/init.qcom.post_boot.sh
+    class late_start
+    user root
+    oneshot
+
 service audiod /system/bin/audiod
    class late_start
    user system

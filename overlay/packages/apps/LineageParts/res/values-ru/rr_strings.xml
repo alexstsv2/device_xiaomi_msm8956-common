@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Themes -->
+    <string name="theme_applied_toast">Тема применена.</string>
+    <string name="applying_theme_toast">Применение темы, подождите пожалуйста...</string>
+    <!-- Black/dark -->
+    <string name="style_global_entry_dark_black">Тёмный/Чёрный</string>
+    <string name="style_force_black_title">Использовать чёрную тему</string>
+    <string name="style_force_black_summary">Это заменит тёмную тему чёрной</string>
+</resources>

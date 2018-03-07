@@ -38,8 +38,8 @@
     <string name="grid_size_custom_message">Настройте количество строк и столбцо</string>
 
     <!-- Hide labels -->
-    <string name="desktop_show_labels">Показывать значки на рабочем столе</string>
-    <string name="drawer_show_labels">Показывать значки в списке</string>
+    <string name="desktop_show_labels">Показывать названия на рабочем столе</string>
+    <string name="drawer_show_labels">Показывать названия в списке</string>
 
     <!-- Custom icons -->
     <string name="app_edit_drop_target_label">Редактировать</string>

@@ -112,6 +112,8 @@ on property:sys.boot_completed=1
     chmod 0660 /sys/module/lowmemorykiller/parameters/minfree
     write /sys/module/lowmemorykiller/parameters/minfree "14746,18432,22118,25805,40000,55000"
 
+    chmod 0660 /sys/module/lowmemorykiller/parameters/minfree
+
 on charger
     # Disable thermal
     write /sys/module/msm_thermal/core_control/enabled 0
