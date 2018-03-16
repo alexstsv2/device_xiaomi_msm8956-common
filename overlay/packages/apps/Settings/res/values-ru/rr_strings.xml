@@ -229,6 +229,10 @@
   <string name="ticker_disabled">Без бегущей строки состояния</string>
   <string name="ticker_enabled">Текст уведомлений</string>
   <string name="ticker_media_enabled">Текст уведомлений и музыки</string>
+  <string name="ticker_animation_mode_title">Стиль анимации тикера</string>
+  <string name="ticker_animation_mode_alpha_fade">Исчезающий</string>
+  <string name="ticker_animation_mode_scroll">Прокрутка</string>
+
   <!-- Heads up -->
   <string name="heads_up_title">Разрешить всплывающие уведомления</string>
   <string name="heads_up_summary_enabled">Всплывающие уведомления включены</string>
